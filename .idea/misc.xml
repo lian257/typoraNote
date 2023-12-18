@@ -3,4 +3,10 @@
   <component name="MavenRunner">
     <option name="jreName" value="17" />
   </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SuppressionsComponent">
+    <option name="suppComments" value="[]" />
+  </component>
 </project>

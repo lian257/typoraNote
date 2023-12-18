@@ -134,7 +134,7 @@ Lombok是一个实用的Java类库,能通过注解的形式自动生成构造器
 
 随着用户的输入或外部条件的变化而变化的SQL语句，我们称为动态SQL。
 
-![](D:\Desktop\typoraNote\images\动态sql_if.png)
+![](.\images\动态sql_if.png)
 
 ![](.\images\foreach_sql.png)
 
@@ -168,3 +168,10 @@ Lombok是一个实用的Java类库,能通过注解的形式自动生成构造器
 JSON Web Token (https://jwt.io/)
 
 ![](.\images\jwt.png)
+
+#### 过滤器
+- 概念: Filter过滤器，是JavaWeb三大组件(Servlet、Filter. Listener)之一。
+- 过滤器可以把对资源的请求拦截下来，从而实现一些特殊的功能。
+- 过滤器一般完成一些通用的操作，比如:登录校验、统一编码处理、敏感字符处理等。
+
+![](.\images\Filter.png)

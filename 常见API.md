@@ -11,7 +11,7 @@
 |  max   |                                                    |
 | random |          doubl返回值随机数 范围[0.0,1,0)           |
 
-<img src="D:\Desktop\typoraNote\images\mi.png" style="zoom:40%;" />
+<img src=".\images\mi.png" style="zoom:40%;" />
 
 # System
 

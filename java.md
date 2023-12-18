@@ -298,7 +298,7 @@ Set 集合的实现类
 
 **哈希值**
 
-![](D:\Desktop\typoraNote\images\哈希值.png)
+![](.\images\哈希值.png)
 
 ### HashSet地层原理
 
@@ -641,7 +641,7 @@ try{
 
 ##### 纯文本文件
 
-![](D:\Desktop\typoraNote\images\什么是纯文本文件.png)
+![](.\images\什么是纯文本文件.png)
 
 ##### IO流体系
 
